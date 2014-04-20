@@ -5,9 +5,9 @@
     "Thomas Baker <tombaker85@googlemail.com>"
   ],
   "dependencies": {
-    "jquery": "latest",
-    "jquery-ui": "latest",
-    "nprogress": "latest"
+    "jquery": "2.1",
+    "jquery-ui": "1.10",
+    "nprogress": "0.1"
   },
   "install" : {
     "path" : "public/js/libs"
