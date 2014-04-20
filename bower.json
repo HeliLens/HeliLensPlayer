@@ -1,0 +1,13 @@
+{
+  "name": "HeliLensPlayer",
+  "version": "0.1",
+  "authors": [
+    "Thomas Baker <tombaker85@googlemail.com>"
+  ],
+  "dependencies": {
+    "jquery": "1.10",
+    "jquery-ui": "1.10",
+    "nprogress": "0.1",
+    "requirejs": null
+  }
+}
